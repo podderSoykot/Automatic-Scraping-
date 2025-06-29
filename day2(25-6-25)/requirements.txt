@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+numpy
+tqdm
+us  # for list of states/cities
+selenium
+webdriver-manager
+undetected-chromedriver
